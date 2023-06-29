@@ -46,7 +46,7 @@ config MAX_CPUS
 
 config DRAM_SIZE_MB
 	int
-	default 32768
+	default 32
 
 config OPENSBI_PLATFORM
 	string
